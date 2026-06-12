@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Management System",
+  "description": "A responsive Hotel Management System featuring Role-Based Access Control (RBAC) across five roles: Administator, Manager, Front Desk Receptionist, Housekeeper, and Guest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
